@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, eu sou Hercilio Lopes, um apaixonado por tecnologia e astronomia em constante evolução. Sou Bacharel em Sistemas de Informação, sempre atendo às oportunidades de aprender e explorar diferentes áreas do desenvolvimento de sistemas. Quando não estou programando, estarei lendo ou vendo filmes sobre o espaço e tempo.
+  Olá, eu sou Hercilio Lopes, um apaixonado por tecnologia e astronomia em constante evolução. Sou Bacharel em Sistemas de Informação, sempre atendo às oportunidades de aprender e explorar diferentes áreas do desenvolvimento de sistemas. Quando não estou programando, com certeza estarei lendo ou vendo filmes sobre o espaço e tempo.
 </p>
 
 <p align="left">
